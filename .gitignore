@@ -1,0 +1,10 @@
+.idea/
+node_modules/
+dist/
+
+yarn.lock
+package-lock.json
+
+*.log
+*.tgz
+
